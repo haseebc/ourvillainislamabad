@@ -16,12 +16,12 @@
     color: white;
     padding: 8px 24px;
     border-radius: 4px;
-    background: #dd611e;
+    background: #C36A2D;
     transition: background 0.3s ease;
   }
   
   .btn-flat:hover {
-    background: #de844c;
+    background: #E2C275;
     color: white;
   }
   
@@ -37,6 +37,22 @@
   
   .btn-gradient:hover {
     background: linear-gradient(#147EFF, #0F67DA);
+    color: white;
+  }
+
+  .btn-treehouse {
+    color: white;
+    padding: 10px 15px;
+    border-radius: 4px;
+    font-weight: bold;
+    font-size: 20px;
+    background: #C36A2D;
+    font-family: 'Open Sans', sans-serif;
+  }
+  .btn-treehouse:hover {
+    opacity: 1;
+    background: #E2C275;
+    text-decoration: none;
     color: white;
   }
   
